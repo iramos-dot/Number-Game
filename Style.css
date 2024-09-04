@@ -4,6 +4,10 @@ body {
   margin-top: 50px;
 }
 
+.subtitle{
+    font-style: italic;
+    font-size: larger;
+}
 input {
   padding: 10px;
   font-size: 16px;
